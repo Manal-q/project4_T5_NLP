@@ -1,4 +1,4 @@
 # Understanding happiness causes using NLP 
 
-<img src=“https://ibb.co/dpn8YYR”>
+![alt text](https://ibb.co/dpn8YYR)
 
