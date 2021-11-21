@@ -1,4 +1,7 @@
 # Understanding happiness causes using NLP 
 
-![](/image/logo.png)
+<p align="center">
+  <img src="/image/logo.png" />
+</p>
+
 
